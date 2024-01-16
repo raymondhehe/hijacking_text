@@ -3,12 +3,14 @@
 [![arXiv](https://img.shields.io/badge/arxiv-2305.07406-b31b1b)](https://arxiv.org/abs/2305.07406)
 <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a>
 
-This repository contains the PyTorch implementation of the paper "[Two-in-One: A Model Hijacking Attack Against Text Generation Models](https://arxiv.org/abs/2305.07406)" by [Wai Man Si](https://raymondhehe.github.io/), [Yang Zhang](https://yangzhangalmo.github.io/), and [Ahmed Salem](https://ahmedsalem2.github.io/).
+This repository contains the PyTorch implementation of the paper "[Two-in-One: A Model Hijacking Attack Against Text Generation Models](https://arxiv.org/abs/2305.07406)" by [Wai Man Si](https://raymondhehe.github.io/), [Michael Backes](https://scholar.google.de/citations?user=ZVS3KOEAAAAJ&hl=de), [Yang Zhang](https://yangzhangalmo.github.io/), and [Ahmed Salem](https://ahmedsalem2.github.io/).
 
 
 ## Requirements
 Our code depends on the following requirements:
-- Basic: PyTorch 1.11.0, Python 3.8, transformers==4.19.2
+- Python 3.8
+- PyTorch 1.11.0
+- transformers==4.19.2
 
 ## Prepare Transformed Data
 
