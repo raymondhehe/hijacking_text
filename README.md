@@ -18,6 +18,9 @@ Our code depends on the following requirements:
 # prepare hijacking token set
 python pre_token_set.py
 
+# prepare dataset
+python prepare_data.py
+
 # sentence transforming
 python attack.py
 ```
