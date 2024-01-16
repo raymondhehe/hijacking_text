@@ -55,22 +55,16 @@ Our code is built upon the public code of the [CLARE] (https://github.com/cookie
 Please cite our paper if you use this code in your own work:
 
 ```
-@inproceedings{DBLP:conf/uss/Si00023,
+@inproceedings{SBZS23,
   author       = {Wai Man Si and
                   Michael Backes and
                   Yang Zhang and
                   Ahmed Salem},
-  editor       = {Joseph A. Calandrino and
-                  Carmela Troncoso},
   title        = {Two-in-One: {A} Model Hijacking Attack Against Text Generation Models},
   booktitle    = {32nd {USENIX} Security Symposium, {USENIX} Security 2023, Anaheim,
                   CA, USA, August 9-11, 2023},
   pages        = {2223--2240},
   publisher    = {{USENIX} Association},
-  year         = {2023},
-  url          = {https://www.usenix.org/conference/usenixsecurity23/presentation/si},
-  timestamp    = {Wed, 18 Oct 2023 16:49:03 +0200},
-  biburl       = {https://dblp.org/rec/conf/uss/Si00023.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  year         = {2023}
 }
 ```
